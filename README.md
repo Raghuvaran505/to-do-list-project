@@ -18,6 +18,6 @@
       <input type="checkbox" id="clg" name="college">
             <label for="go">college</label><br>
       <input type="checkbox" id="go" name="clgs">
-      
+    </form>
   </body>
 </html>
